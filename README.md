@@ -3,6 +3,7 @@
 ## Paper 
 This is project page for the paper title "An Inference Algorithm for Multi-Label MRF-MAP Problems with Clique Size 100" published in ECCV 2020. The paper is available at link: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650256.pdf. The proposed method is an inference algorithm for solving multi-label MRF-MAP problem. Please cite our paper if you find this code useful. 
 
+'''
 @inproceedings{shanu2020inference,
   title={An Inference Algorithm for Multi-Label MRF-MAP Problems with Clique Size 100},
   author={Shanu, Ishant and Bharti, Siddhant and Arora, Chetan and Maheshwari, SN},
@@ -11,6 +12,7 @@ This is project page for the paper title "An Inference Algorithm for Multi-Label
   year={2020},
   organization={Springer}
 }
+'''
 
 ### Getting Started
 
