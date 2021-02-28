@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Base.h" />
+    <ClInclude Include="Minnorm.h" />
+    <ClInclude Include="Oracle.h" />
+    <ClInclude Include="TestUtil.h" />
+    <ClInclude Include="TestSegmentation.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="mainfile.cpp" />
+    <ClCompile Include="Base.cpp" />
+    <ClCompile Include="Minnorm.cpp" />
+    <ClCompile Include="Oracle.cpp" />
+    <ClCompile Include="TestUtil.cpp" />
+    <ClCompile Include="TestSegmentation.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="test">
+      <UniqueIdentifier>{2fb4e5ee-6285-485b-b8dd-6356f353ef32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{677bcdab-e404-4268-983c-52accda9612c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
